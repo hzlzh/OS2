@@ -5,8 +5,8 @@ OS2 BMS 音乐小组
 
 组员ID：
 
-* OS2.hzlzh
-* OS2.ckc
+* [OS2.hzlzh](http://weibo.com/hzlzh)
+* [OS2.ckc](http://weibo.com/ckcee)
 * OS2.CKM
 
 `OS2`组名来历 -- OST to You!
