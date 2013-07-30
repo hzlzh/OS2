@@ -38,3 +38,5 @@ OS2 BMS 音乐小组
 ## 版权所有
 
 所有作品版权归组员所有，可随意娱乐使用，未经同意，请勿商用。
+
+ [Shut up(Simple Plan).zip]: https://github.com/hzlzh/OS2/raw/master/Downloads/Shut%20up(Simple%20Plan).zip
