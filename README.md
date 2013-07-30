@@ -18,7 +18,7 @@ OS2 BMS 音乐小组
 * [IIDX EXPERT\[G\].zip](https://github.com/hzlzh/OS2/raw/master/Downloads/IIDX%20EXPERT%5BG%5D.zip)
 * [prisoner of love utada hikaru.zip](https://github.com/hzlzh/OS2/raw/master/Downloads/prisoner%20of%20love%20utada%20hikaru.zip)
 * [Ristaccia.zip](https://github.com/hzlzh/OS2/raw/master/Downloads/Ristaccia.zip)
-* [Shut up(Simple Plan).zip](https://github.com/hzlzh/OS2/raw/master/Downloads/Shut%20up(Simple%20Plan).zip)
+* [Shut up(Simple Plan).zip]
 * [SOLID STATE SQUAD.zip](https://github.com/hzlzh/OS2/raw/master/Downloads/SOLID%20STATE%20SQUAD.zip)
 * [something.zip](https://github.com/hzlzh/OS2/raw/master/Downloads/something.zip)
 * [仙剑三插曲合辑.zip](https://github.com/hzlzh/OS2/raw/master/Downloads/%E4%BB%99%E5%89%91%E4%B8%89%E6%8F%92%E6%9B%B2%E5%90%88%E8%BE%91.zip)
